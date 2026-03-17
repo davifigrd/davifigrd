@@ -40,6 +40,6 @@ I am a dedicated student of Systems Analysis and Development, focused on buildin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifigrd&layout=compact&theme=tokyonight&border_radius=15" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=davifigrd&show_icons=true&theme=tokyonight&border_radius=15" width="46%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifigrd&layout=compact&theme=tokyonight&border_radius=15" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api?username=davifigrd&show_icons=true&theme=tokyonight&border_radius=15" width="36%">
 </p>
