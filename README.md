@@ -6,7 +6,7 @@
 
 ## 🔗 Connect with me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davifrdutra@gmail.com?subject=Github%20Contact&body=Hello) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davifigrd) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davifigrd/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davifrdutra@hotmail.com?subject=Github%20Contact&body=Hello) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davifigrd) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davifigrd/)
 
 ---
 
@@ -38,8 +38,7 @@ I am a dedicated student of Systems Analysis and Development, focused on buildin
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifigrd&layout=compact&theme=tokyonight&border_radius=15" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifigrd&layout=compact&theme=tokyonight&border_radius=15" width="30%">
   <img src="https://github-readme-stats.vercel.app/api?username=davifigrd&show_icons=true&theme=tokyonight&border_radius=15" width="36%">
 </p>
