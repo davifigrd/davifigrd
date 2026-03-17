@@ -5,30 +5,8 @@
 ---
 
 ## 🔗 Connect with me
-<p align="left">
 
-  <a href="mailto:davifrdutra@hotmail.com?subject=Github%20Contact&body=Hello">
-    <span style="display:inline-flex; align-items:center; background-color:#0078D4; color:white; padding:8px 12px; border-radius:8px; font-weight:bold; font-size:13px; margin-right:8px;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftoutlook.svg" width="16" style="margin-right:8px;">
-      E-mail
-    </span>
-  </a>
-
-  <a href="https://www.linkedin.com/in/davifigrd">
-    <span style="display:inline-flex; align-items:center; background-color:#0A66C2; color:white; padding:8px 12px; border-radius:8px; font-weight:bold; font-size:13px; margin-right:8px;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="16" style="margin-right:8px;">
-      LinkedIn
-    </span>
-  </a>
-
-  <a href="https://www.instagram.com/davifigrd/">
-    <span style="display:inline-flex; align-items:center; background-color:#E4405F; color:white; padding:8px 12px; border-radius:8px; font-weight:bold; font-size:13px;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="16" style="margin-right:8px;">
-      Instagram
-    </span>
-  </a>
-
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davifrdutra@gmail.com?subject=Github%20Contact&body=Hello) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davifigrd) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davifigrd/)
 
 ---
 
@@ -45,45 +23,17 @@ I am a dedicated student of Systems Analysis and Development, focused on buildin
 ## 🧩 Skills
 
 ### 🎨 Front-End
-<p align="left">
-  
-  <span style="display:inline-flex; align-items:center; background-color:#E34F26; color:white; padding:5px 10px; border-radius:8px; font-weight:bold; font-size:12px; margin-right:6px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="14" style="margin-right:6px;">
-    HTML
-  </span>
-
-  <span style="display:inline-flex; align-items:center; background-color:#1572B6; color:white; padding:5px 10px; border-radius:8px; font-weight:bold; font-size:12px; margin-right:6px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="14" style="margin-right:6px;">
-    CSS
-  </span>
-
-  <span style="display:inline-flex; align-items:center; background-color:#F7DF1E; color:black; padding:5px 10px; border-radius:8px; font-weight:bold; font-size:12px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="14" style="margin-right:6px;">
-    JavaScript
-  </span>
-
-</p>
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/) [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ---
 
 ## 🧰 Tools & Environment
 
 ### 🛠️ IDE's
-<p align="left">
-
-  <span style="display:inline-flex; align-items:center; background-color:#007ACC; color:white; padding:5px 10px; border-radius:6px; font-weight:bold; font-size:12px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" width="14" style="margin-right:6px;">
-    VS Code
-  </span>
-</p>
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) 
 
 ### 🖥️ Operating System
-<p align="left">
-  <span style="display:inline-flex; align-items:center; background-color:#0078D6; color:white; padding:5px 10px; border-radius:6px; font-weight:bold; font-size:12px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/windows.svg" width="14" style="margin-right:6px;">
-    Windows
-  </span>
-</p>
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 
 ---
 
