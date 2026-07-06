@@ -48,10 +48,6 @@ I am a dedicated student of Systems Analysis and Development, focused on buildin
 
 ---
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifigrd&layout=compact&theme=tokyonight&border_radius=15" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=davifigrd&show_icons=true&theme=tokyonight&border_radius=15" width="32%" />
-  <a href="https://github.com/ DenverCoderOne/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=davifigrd&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500&card_height=230&excludeDaysLabel=0D1117&dates=EBEBEB&currStreakLabel=D4D9FF&sideLabels=D4D9FF&sideNums=6D00A8&ring=6D00A8&fire=6D00A8&currStreakNum=6D00A8" width="32%" />
-  </a>
-</p>
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=davifigrd&show_icons=true&theme=tokyonight&hide_border=true)     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davifigrd&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=230&excludeDaysLabel=0D1117&dates=EBEBEB&currStreakLabel=D4D9FF&sideLabels=D4D9FF&sideNums=6D00A8&ring=6D00A8&fire=6D00A8&currStreakNum=6D00A8)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=davifigrd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
