@@ -52,5 +52,4 @@ I am a dedicated student of Systems Analysis and Development, focused on buildin
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=davifigrd&show_icons=true&theme=tokyonight&hide_border=true)   ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=davifigrd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davifigrd&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=230&excludeDaysLabel=0D1117&dates=EBEBEB&currStreakLabel=D4D9FF&sideLabels=D4D9FF&sideNums=6D00A8&ring=6D00A8&fire=6D00A8&currStreakNum=6D00A8)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davifigrd&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=230&excludeDaysLabel=0D1117&dates=EBEBEB&currStreakLabel=D4D9FF&sideLabels=D4D9FF&sideNums=6D00A8&ring=6D00A8&fire=6D00A8&currStreakNum=6D00A8&timezone=America/Sao_Paulo)](https://git.io/streak-stats)
