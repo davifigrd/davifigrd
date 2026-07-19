@@ -30,14 +30,12 @@ I am a dedicated student of Systems Analysis and Development, focused on buildin
 [![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
 
 ### ⚙️ Back-End
-![Nodejs](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 📚 Logic & Programming Fundamentals
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Portugol](https://img.shields.io/badge/Portugol-FFC81A?style=for-the-badge&logo=codeium&logoColor=white)
+![Nodejs](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🎮 Game Development
 ![Construct 3](https://img.shields.io/badge/Construct%203-009982?style=for-the-badge&logo=construct3&logoColor=white)
+![Portugol](https://img.shields.io/badge/Portugol-FFC81A?style=for-the-badge&logo=codeium&logoColor=white)
 
 ---
 
