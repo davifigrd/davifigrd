@@ -46,6 +46,7 @@ I am a dedicated student of Systems Analysis and Development, focused on buildin
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 [![Windows](https://img.shields.io/badge/Windows-0178d4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.pgadmin.org/)
 
 ---
 ## 📊 GitHub Stats
