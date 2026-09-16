@@ -32,6 +32,7 @@ I am a dedicated student of Systems Analysis and Development, focused on buildin
 ### ⚙️ Back-End
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ### 🎮 Game Development
 ![Construct 3](https://img.shields.io/badge/Construct%203-009982?style=for-the-badge&logo=construct3&logoColor=white)
